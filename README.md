@@ -8,9 +8,11 @@
 ![GitHub stars](https://img.shields.io/github/stars/rgglez/music-drums?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/rgglez/music-drums?style=social)
 
-![music-drums](screen.webp)
-
 A simple drum kit built in response to a question from Michel Geiss about instrument building with Claude Code.
+
+## Screenshot
+
+![music-drums](screen.webp)
 
 ## Sounds
 
